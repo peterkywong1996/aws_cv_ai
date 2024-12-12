@@ -12,5 +12,6 @@ Amazon Rekognition for AI-based Object Recognition on Images
      - Working at height: scaffolding, guard rail, rope, helmet
   6) Link to the database for automatic record updating
 - Codes that may involve customization:
-- - detect_all(): detect_labels() -> a list of site objects to be detected, out of a pre-trained object pool; currently detected = helmet, gloves, person fallen-down, fire, fire hydrant, crane, truck, scaffolding, guardrail, stop sign, manhole, tripod, rope, gas mask
+- - detect_all(): detect_labels() -> a list of site objects to be detected, out of a pre-trained object pool (refer to the full list in AmazonRekognitionLabelsCategoriesMapping_v3.0.xlsx)
+- - currently detected = helmet, gloves, person fallen-down, fire, fire hydrant, crane, truck, scaffolding, guardrail, stop sign, manhole, tripod, rope, gas mask
 - - detect_all(): update_item -> the list of updates should be modified according to those labels above

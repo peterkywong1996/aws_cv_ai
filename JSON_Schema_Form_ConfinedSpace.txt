@@ -1,0 +1,260 @@
+{
+  "formType": {
+    "S": "密閉空間許可證"
+  },
+  "id": {
+    "S": "00fb701d-b248-4e12-a32d-d57a31d1039a"
+  },
+  "formData": {
+    "M": {
+      "applicantEmail": {
+        "S": "autofilldev+worker1@gmail.com"
+      },
+      "applicantId": {
+        "S": "Az1vGZPj5cRIHIOtzVJMjnKj2PE3"
+      },
+      "applicantName": {
+        "S": "Zeng Zhaoyu"
+      },
+      "bodyTempRiskCheck": {
+        "S": ""
+      },
+      "bodyTempRiskSafety": {
+        "S": ""
+      },
+      "carbonMonoxideConcentration": {
+        "S": "0"
+      },
+      "carbonMonoxideTestEvaluation": {
+        "S": ""
+      },
+      "chemicalRiskCheck": {
+        "S": "存在"
+      },
+      "chemicalRiskSafety": {
+        "S": "0人有戴手套 "
+      },
+      "dateCreated": {
+        "S": "1714660380000"
+      },
+      "electricalRiskCheck": {
+        "S": ""
+      },
+      "electricalRiskSafety": {
+        "S": ""
+      },
+      "environmentalRiskCheck": {
+        "S": "存在"
+      },
+      "environmentalRiskSafety": {
+        "S": "有沙井/樓洞/缺口 有圍欄 有警告牌 無三腳架 "
+      },
+      "fireRiskCheck": {
+        "S": "存在"
+      },
+      "fireRiskSafety": {
+        "S": "滅火筒"
+      },
+      "flammableGasConcentration": {
+        "S": "0"
+      },
+      "flammableGasTestEvaluation": {
+        "S": ""
+      },
+      "gasDetectorNumber": {
+        "S": "1"
+      },
+      "gasRiskCheck": {
+        "S": "不存在"
+      },
+      "gasRiskSafety": {
+        "S": ""
+      },
+      "gasTestDateTime": {
+        "S": "1714660380000"
+      },
+      "gasTester": {
+        "L": [
+          {
+            "M": {
+              "id": {
+                "S": "Az1vGZPj5cRIHIOtzVJMjnKj2PE3"
+              },
+              "accountType": {
+                "S": "worker"
+              },
+              "displayName": {
+                "S": "Zeng Zhaoyu"
+              },
+              "email": {
+                "S": "autofilldev+worker1@gmail.com"
+              },
+              "username": {
+                "S": "autofilldev+worker1"
+              }
+            }
+          }
+        ]
+      },
+      "gasTestResultImages": {
+        "L": [
+          {
+            "S": "https://xxi0juyzo0.execute-api.ap-southeast-1.amazonaws.com/s3?bucketName=autofill-form-images&fileName=confine7.jpeg"
+          }
+        ]
+      },
+      "hotWorkRiskCheck": {
+        "S": "不存在"
+      },
+      "hotWorkRiskSafety": {
+        "S": "0人有戴手套 "
+      },
+      "hydrogenSulphideConcentration": {
+        "S": "0"
+      },
+      "hydrogenSulphideTestEvaluation": {
+        "S": ""
+      },
+      "inspector": {
+        "L": [
+          {
+            "M": {
+              "id": {
+                "S": "0DjGwhXb0TVJk8KrHyAqyyOKmZa2"
+              },
+              "accountType": {
+                "S": "subContractor"
+              },
+              "displayName": {
+                "S": "DEF Sub Con"
+              },
+              "email": {
+                "S": "autofilldev+subcon1@gmail.com"
+              },
+              "username": {
+                "S": "autofilldev+subcon1"
+              }
+            }
+          }
+        ]
+      },
+      "liquidRiskCheck": {
+        "S": ""
+      },
+      "liquidRiskSafety": {
+        "S": ""
+      },
+      "locationName": {
+        "S": "L1"
+      },
+      "noiseRiskCheck": {
+        "S": ""
+      },
+      "noiseRiskSafety": {
+        "S": ""
+      },
+      "otherMajorRiskCheck": {
+        "S": "不存在"
+      },
+      "otherMajorRiskCheckText": {
+        "S": ""
+      },
+      "otherMajorRiskSafety": {
+        "S": ""
+      },
+      "otherRiskCheck": {
+        "S": "不存在"
+      },
+      "otherRiskCheckText": {
+        "S": ""
+      },
+      "otherRiskSafety": {
+        "S": ""
+      },
+      "otherWorkType": {
+        "S": ""
+      },
+      "oxygenConcentration": {
+        "S": "0"
+      },
+      "oxygenTestEvaluation": {
+        "S": ""
+      },
+      "particleRiskCheck": {
+        "S": ""
+      },
+      "particleRiskSafety": {
+        "S": ""
+      },
+      "phone": {
+        "S": "undefined"
+      },
+      "projectName": {
+        "S": "Test-Project"
+      },
+      "remarks": {
+        "S": ""
+      },
+      "siteImages": {
+        "L": [
+          {
+            "S": "https://xxi0juyzo0.execute-api.ap-southeast-1.amazonaws.com/s3?bucketName=autofill-form-images&fileName=confine7.jpeg"
+          }
+        ]
+      },
+      "validFrom": {
+        "S": "1714660380000"
+      },
+      "validUntil": {
+        "S": "1714660380000"
+      },
+      "workAtHeightRiskCheck": {
+        "S": "存在"
+      },
+      "workAtHeightRiskSafety": {
+        "S": "有圍欄 有安全繩 "
+      },
+      "worker": {
+        "L": [
+          {
+            "M": {
+              "id": {
+                "S": "Az1vGZPj5cRIHIOtzVJMjnKj2PE3"
+              },
+              "accountType": {
+                "S": "worker"
+              },
+              "displayName": {
+                "S": "Zeng Zhaoyu"
+              },
+              "email": {
+                "S": "autofilldev+worker1@gmail.com"
+              },
+              "username": {
+                "S": "autofilldev+worker1"
+              }
+            }
+          }
+        ]
+      },
+      "workLocationCoordinates": {
+        "S": "50,50"
+      },
+      "workLocationName": {
+        "S": "wl-1"
+      },
+      "workType": {
+        "S": "水喉"
+      }
+    }
+  },
+  "lastModified": {
+    "N": "1714660458423"
+  },
+  "pdfUrl": {
+    "S": ""
+  },
+  "statusCode": {
+    "N": "100"
+  }
+}

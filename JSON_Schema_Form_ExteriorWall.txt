@@ -1,0 +1,146 @@
+{
+  "formType": {
+    "S": "外牆工作(棚架)"
+  },
+  "id": {
+    "S": "021c9e80-3c92-44e7-a24c-8327c1ea8449"
+  },
+  "formData": {
+    "M": {
+      "applicantEmail": {
+        "S": "autofilldev+worker1@gmail.com"
+      },
+      "applicantId": {
+        "S": "Az1vGZPj5cRIHIOtzVJMjnKj2PE3"
+      },
+      "applicantName": {
+        "S": "Zeng Zhaoyu"
+      },
+      "dateCreated": {
+        "S": "1714656120000"
+      },
+      "fallProtectionCheck": {
+        "S": "有安全繩 "
+      },
+      "handheldRopeCheck": {
+        "S": ""
+      },
+      "inspector": {
+        "L": [
+          {
+            "M": {
+              "id": {
+                "S": "0DjGwhXb0TVJk8KrHyAqyyOKmZa2"
+              },
+              "accountType": {
+                "S": "subContractor"
+              },
+              "displayName": {
+                "S": "DEF Sub Con"
+              },
+              "email": {
+                "S": "autofilldev+subcon1@gmail.com"
+              },
+              "username": {
+                "S": "autofilldev+subcon1"
+              }
+            }
+          }
+        ]
+      },
+      "locationName": {
+        "S": "L1"
+      },
+      "looseItemCheck": {
+        "S": ""
+      },
+      "lowerLevelWorkerCheck": {
+        "S": ""
+      },
+      "netConditionCheck": {
+        "S": ""
+      },
+      "panelInstallCheck": {
+        "S": ""
+      },
+      "phone": {
+        "S": "undefined"
+      },
+      "photoRecordCheck": {
+        "S": ""
+      },
+      "projectName": {
+        "S": "Test-Project"
+      },
+      "remarks": {
+        "S": ""
+      },
+      "safeEntryCheck": {
+        "S": ""
+      },
+      "safetyEquipmentCheck": {
+        "S": "2人有戴安全帽 有安全鞋 "
+      },
+      "safetyRopeCheck": {
+        "S": "有安全繩 "
+      },
+      "siteImages": {
+        "L": [
+          {
+            "S": "https://xxi0juyzo0.execute-api.ap-southeast-1.amazonaws.com/s3?bucketName=autofill-form-images&fileName=Scaffolding69.jpeg"
+          }
+        ]
+      },
+      "toolboxCheck": {
+        "S": ""
+      },
+      "validFrom": {
+        "S": "1714656120000"
+      },
+      "validUntil": {
+        "S": "1714656120000"
+      },
+      "worker": {
+        "L": [
+          {
+            "M": {
+              "id": {
+                "S": "Az1vGZPj5cRIHIOtzVJMjnKj2PE3"
+              },
+              "accountType": {
+                "S": "worker"
+              },
+              "displayName": {
+                "S": "Zeng Zhaoyu"
+              },
+              "email": {
+                "S": "autofilldev+worker1@gmail.com"
+              },
+              "username": {
+                "S": "autofilldev+worker1"
+              }
+            }
+          }
+        ]
+      },
+      "workLocationCoordinates": {
+        "S": "50,50"
+      },
+      "workLocationName": {
+        "S": "wl-1"
+      },
+      "workPlatformCheck": {
+        "S": "棚架 有防墜圍欄 有踢腳板 "
+      }
+    }
+  },
+  "lastModified": {
+    "N": "1714656144515"
+  },
+  "pdfUrl": {
+    "S": ""
+  },
+  "statusCode": {
+    "N": "100"
+  }
+}
